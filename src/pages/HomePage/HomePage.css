@@ -1,0 +1,14 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 100vh; 
+}
+
+.no-results {
+  text-align: center;
+  font-size: 1.2rem;
+  color: gray;
+  margin: 1rem 0;
+}
+
